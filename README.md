@@ -1,13 +1,8 @@
-# Hello, I'm Graciano André Leite 👋
-## About Me
+# 👋 Hello, I'm Graciano André Leite
 
-I'm a junior developer passionate about technology, with a focus on web and backend development. I'm always on the lookout for new opportunities to learn and grow in my career.
+## 🚀 Junior Developer | Web & Backend Enthusiast
 
-- 👀 Interests: Web Development, Backend, PHP
-- 🌱 Currently Learning: Laravel
-- 💞️ Looking to Collaborate on: Open-source web development projects
-- 📫 How to Reach Me: juniorpc255@gmail.com
-- 😄 Pronouns: He/Him
+Welcome to my GitHub profile! I’m passionate about technology and always eager to learn and grow. Here's a bit about me:
 
 ## My Skills
 
@@ -26,5 +21,14 @@ I'm a junior developer passionate about technology, with a focus on web and back
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🌐 Collaboration Opportunities
+I’m excited to work on:
+- **Open-source web development projects.**  
+  If you have a project in mind or need a collaborator, feel free to reach out!
 
+### 📫 Get in Touch
+Feel free to reach out via email: [juniorpc255@gmail.com](mailto:juniorpc255@gmail.com)
 
+---
+
+**Let’s connect and build something amazing together!** 🚀
