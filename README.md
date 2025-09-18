@@ -31,7 +31,7 @@ I’m excited to work on:
 
 ### 📫 Get in Touch
 Feel free to reach out via email: [juniorpc255@gmail.com](mailto:juniorpc255@gmail.com)
-
+-   **Portfolio:** 🔗[meu-portfolio](https://meu-portfolio-pied-eight.vercel.app/)
 ---
 
 **Let’s connect and build something amazing together!** 🚀
