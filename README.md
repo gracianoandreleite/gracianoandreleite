@@ -12,10 +12,11 @@ Welcome to my GitHub profile! I’m passionate about technology and always eager
 
 ### Frameworks and Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Breeze](https://img.shields.io/badge/Laravel_Breeze-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-4E56A6?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)  
-![Jetstream](https://img.shields.io/badge/Jetstream-0666D0?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Twig Template](https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white)
 
 ### Tools and Technologies
@@ -31,7 +32,7 @@ I’m excited to work on:
 
 ### 📫 Get in Touch
 Feel free to reach out via email: [juniorpc255@gmail.com](mailto:juniorpc255@gmail.com)
--   **Portfolio:** 🔗[meu-portfolio](https://meu-portfolio-pied-eight.vercel.app/)
+- **Portfolio:** 🔗[meu-portfolio](https://meu-portfolio-pied-eight.vercel.app/)
 ---
 
 **Let’s connect and build something amazing together!** 🚀
