@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Graciano André Leite
 
-### 🚀 Junior Web & Backend Developer
+### Junior Web & Backend Developer
 
 <p align="center">
   <a href="https://meu-portfolio-pied-eight.vercel.app/" target="_blank">
@@ -30,7 +30,7 @@ I am a Computer Engineering student and junior developer driven by building prac
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Web & Backend
 <p>
