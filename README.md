@@ -20,19 +20,19 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
 I am a Computer Engineering student and junior developer driven by building practical, high-performance web applications and robust backend systems.
 
-- 🔭 **Current Focus:** Deepening my skills in **PHP / Laravel** and the **TALL Stack** (Tailwind CSS, Alpine.js, Laravel, Livewire) to craft clean, reactive user interfaces and scalable APIs.
-- ⚡ **Enterprise & Desktop:** Experience developing desktop tools and enterprise solutions using **C#**, **.NET**, and relational database systems.
-- 🎓 **Education:** Pursuing a degree in **Computer Engineering**, balancing solid academic principles with real-world development projects.
+ **Current Focus:** Deepening my skills in **PHP / Laravel** and the **TALL Stack** (Tailwind CSS, Alpine.js, Laravel, Livewire) to craft clean, reactive user interfaces and scalable APIs.
+- **Enterprise & Desktop:** Experience developing desktop tools and enterprise solutions using **C#**, **.NET**, and relational database systems.
+- **Education:** Pursuing a degree in **Computer Engineering**, balancing solid academic principles with real-world development projects.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Web & Backend
+### Web & Backend
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -42,13 +42,13 @@ I am a Computer Engineering student and junior developer driven by building prac
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-### 🖥️ Enterprise & Desktop
+### Enterprise & Desktop
 <p>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Ecosystem
+### Databases & Ecosystem
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
